@@ -40,11 +40,12 @@ public class LibrarySystem {
                     }
                     break;
                 case 3:
-                    System.out.println("\nadios");
+                    System.out.println("\nGoodBye");
                     break;
                 default:
                     System.out.println("\nInvalid option\n");
                     break;
+
             }
         }
         scanner.close();
